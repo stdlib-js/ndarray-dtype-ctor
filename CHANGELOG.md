@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-22)
+## Unreleased (2025-10-05)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`72317f7`](https://github.com/stdlib-js/stdlib/commit/72317f741a54745b3025f656e124c272e8bdf344) - **docs:** update related packages sections [(#8203)](https://github.com/stdlib-js/stdlib/pull/8203) _(by stdlib-bot)_
 -   [`7ac6058`](https://github.com/stdlib-js/stdlib/commit/7ac6058fdc8d3eede7ff5bb4e02fcba4b54e0211) - **docs:** add comment _(by Athan Reines)_
 -   [`ddccd36`](https://github.com/stdlib-js/stdlib/commit/ddccd36b228566f4b5c3287ecfb855f68970cf58) - **refactor:** make internal properties read-only and add instance check _(by Athan Reines)_
 -   [`a814ceb`](https://github.com/stdlib-js/stdlib/commit/a814cebcda3422f9d2eebf58b57c955157c8422c) - **feat:** add custom `valueOf` method _(by Athan Reines)_

@@ -303,6 +303,13 @@ console.log( 'JSON: %s', JSON.stringify( dt ) );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/ndarray-ctor`][@stdlib/ndarray/ctor]</span><span class="delimiter">: </span><span class="description">multidimensional array constructor.</span>
+-   <span class="package-name">[`@stdlib/ndarray-dtype`][@stdlib/ndarray/dtype]</span><span class="delimiter">: </span><span class="description">return the data type of a provided ndarray.</span>
+
 </section>
 
 <!-- /.related -->
@@ -386,6 +393,14 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [@stdlib/ndarray/dtypes]: https://github.com/stdlib-js/ndarray-dtypes
 
 [@stdlib/dstructs/struct]: https://github.com/stdlib-js/dstructs-struct
+
+<!-- <related-links> -->
+
+[@stdlib/ndarray/ctor]: https://github.com/stdlib-js/ndarray-ctor
+
+[@stdlib/ndarray/dtype]: https://github.com/stdlib-js/ndarray-dtype
+
+<!-- </related-links> -->
 
 </section>
 
