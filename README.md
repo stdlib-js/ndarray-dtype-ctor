@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import DataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype-ctor@esm/index.mjs';
+import DataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype-ctor@v0.1.1-esm/index.mjs';
 ```
 
 #### DataType( value\[, options] )
@@ -251,7 +251,7 @@ This method returns the same value as `#.toString()`.
 <body>
 <script type="module">
 
-import DataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype-ctor@esm/index.mjs';
+import DataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype-ctor@v0.1.1-esm/index.mjs';
 
 var dt = new DataType( 'complex128' );
 
