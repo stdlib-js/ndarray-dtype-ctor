@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import DataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype-ctor@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-dtype-ctor/tags). For example,
+
+```javascript
 import DataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype-ctor@v0.1.1-deno/mod.js';
 ```
 
@@ -246,7 +251,7 @@ This method returns the same value as `#.toString()`.
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import DataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype-ctor@v0.1.1-deno/mod.js';
+import DataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype-ctor@deno/mod.js';
 
 var dt = new DataType( 'complex128' );
 
